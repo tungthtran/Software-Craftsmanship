@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="066f7f63-a5a8-4b2e-820e-4ae1b6a6714b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioRihAMFFf9mz9lOHCeBT3gDbs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../alarms" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cwru.edu.ttt45.Map" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cwru.edu.ttt45.Map" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RectangleTestedTest">
+    <configuration name="LocationTestedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwru.edu.ttt45.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cwru.edu.ttt45.Map" />
+      <option name="MAIN_CLASS_NAME" value="cwru.edu.ttt45.Map.LocationTestedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTestedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwru.edu.ttt45.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cwru.edu.ttt45.Map" />
+      <option name="MAIN_CLASS_NAME" value="cwru.edu.ttt45.Map.MapTestedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTestedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwru.edu.ttt45.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cwru.edu.ttt45.Map" />
+      <option name="MAIN_CLASS_NAME" value="cwru.edu.ttt45.Map.RectangleTestedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectilinearPolygonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwru.edu.ttt45.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cwru.edu.ttt45.Map" />
+      <option name="MAIN_CLASS_NAME" value="cwru.edu.ttt45.Map.RectilinearPolygonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwru.edu.ttt45.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cwru.edu.ttt45.Map" />
+      <option name="MAIN_CLASS_NAME" value="cwru.edu.ttt45.Map.TestedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RectangleTestedTest" />
+        <item itemvalue="JUnit.MapTestedTest" />
+        <item itemvalue="JUnit.RectilinearPolygonTest" />
+        <item itemvalue="JUnit.TestedTest" />
+        <item itemvalue="JUnit.LocationTestedTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="066f7f63-a5a8-4b2e-820e-4ae1b6a6714b" name="Default Changelist" comment="" />
+      <created>1602572086051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602572086051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1605769139465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605769139465" />
+    <state x="395" y="56" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607008232301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="56" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1607008232301" />
+    <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1608738844020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="62" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608738844020" />
+    <state width="1311" height="165" key="GridCell.Tab.0.bottom" timestamp="1607008865479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607008865479" />
+    <state width="1311" height="165" key="GridCell.Tab.0.center" timestamp="1607008865478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607008865478" />
+    <state width="1311" height="165" key="GridCell.Tab.0.left" timestamp="1607008865478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607008865478" />
+    <state width="1311" height="165" key="GridCell.Tab.0.right" timestamp="1607008865479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607008865479" />
+    <state width="1311" height="208" key="GridCell.Tab.1.bottom" timestamp="1606933856875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606933856875" />
+    <state width="1311" height="208" key="GridCell.Tab.1.center" timestamp="1606933856875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606933856875" />
+    <state width="1311" height="208" key="GridCell.Tab.1.left" timestamp="1606933856875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606933856875" />
+    <state width="1311" height="208" key="GridCell.Tab.1.right" timestamp="1606933856875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606933856875" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1603891436146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603891436146" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1612492404509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1612492404509" />
+    <state x="452" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605773701908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1605773701908" />
+    <state x="0" y="0" key="new project wizard" timestamp="1612492431011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1612492431011" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1605774074973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605774074973" />
+    <state x="175" y="0" key="scopes" timestamp="1606839037563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1606839037563" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1605625859698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605625859698" />
+  </component>
+</project>
